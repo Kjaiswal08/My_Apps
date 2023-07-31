@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyGame</string>
+    <string name="title">Welcome to The Game</string>
+    <string name="Grid">Grid</string>
+    <string name="Block">Blocks</string>
+    <string name="Start">X turn to play</string>
+
+</resources>
