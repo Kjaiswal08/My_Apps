@@ -72,6 +72,13 @@ public class MainActivity extends AppCompatActivity {
                 status.setText(winner);
             }
         }
+        int f=0;
+        for(int x:gamestate)
+        {if(x==2) {f=1;break;}}
+        if(f==0)
+        {
+            status.setText("It's A draw");active=false;
+        }
     }
 
     @Override
