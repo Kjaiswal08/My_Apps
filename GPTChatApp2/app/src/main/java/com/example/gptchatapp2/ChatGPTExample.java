@@ -22,7 +22,7 @@ public class ChatGPTExample extends AsyncTask<String,Void,String> {
     {this.prompt=prompt;}
     public String generate(){
         Log.d("Returnmsg","1");
-        String apiKey = "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"; // Replace with your actual API key
+        String apiKey = "Enter api key";//"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"; // Replace with your actual API key
         String apiUrl = "https://api.openai.com/v1/engines/text-davinci-001/completions";
 
         Log.d("Returnmsg","2");
