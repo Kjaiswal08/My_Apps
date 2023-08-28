@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">GPTChatApp2</string>
+    <string name="title">ChatGpt</string>
+    <string name="hint">What do u wanna now today?</string>
+    <string name="send">Send</string>
+</resources>
