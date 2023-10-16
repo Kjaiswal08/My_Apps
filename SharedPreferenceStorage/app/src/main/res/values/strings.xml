@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SharedPreferenceStorage</string>
+    <string name="Hint">Entre Text</string>
+</resources>

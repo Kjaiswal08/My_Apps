@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MultiScreen</string>
+    <string name="Title">Welcome to the Food Palace</string>
+    <string name="hints">Type Item</string>
+    <string name="button">Place order</string>
+
+</resources>

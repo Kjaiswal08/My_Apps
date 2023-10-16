@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="Title">MusicStore</string>
+    <string name="play">Play</string>
+    <string name="stop">Stop</string>
+    <string name="pause">Pause</string>
+    <string name="volume">Adjust Volume</string>
+    <string name="progress">Progress</string>
+
+</resources>
